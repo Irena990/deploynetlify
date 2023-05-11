@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1>Welcome from Netlify!</h1>
+     <p>Uspesno hostirana strana</p>
     </div>
   );
 }
